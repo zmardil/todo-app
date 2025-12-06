@@ -1,0 +1,19 @@
+# Node
+node_modules/
+
+# Build
+dist/
+.vite/
+.cache/
+
+# Environment
+.env
+.env.*
+
+# Logs
+npm-debug.log*
+yarn-error.log
+
+# Editor
+.idea/
+.vscode/

@@ -1,0 +1,8 @@
+body{ font-family: Arial, Helvetica, sans-serif; margin: 0; padding: 20px; background:#f5f7fb }
+.container{ max-width:800px; margin:0 auto }
+.form{ display:flex; flex-direction:column; gap:8px; margin-bottom:16px }
+.form input, .form textarea{ padding:8px; font-size:14px }
+.form button{ width:100px; padding:8px }
+.list .card{ background:white; padding:12px; border-radius:6px; margin-bottom:8px; box-shadow:0 1px 3px rgba(0,0,0,0.08) }
+.card h3{ margin:0 0 8px 0 }
+.card small{ color:#666 }

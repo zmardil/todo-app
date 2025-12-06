@@ -1,0 +1,18 @@
+# Maven / build
+/target/
+*.jar
+*.war
+
+# IDE
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Logs
+*.log
+logs/
+
+# Others
+.mvn/wrapper/maven-wrapper.jar
